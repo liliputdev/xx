@@ -216,14 +216,14 @@ I enjoy transforming ideas into polished digital products — from **visual conc
 ### Automation
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" height="40" />
+  <img src="https://img.shields.io/badge/Zapier-111111?style=for-the-badge&logo=zapier&logoColor=c5ff4a&labelColor=060606" alt="Zapier" />
+  <img src="https://img.shields.io/badge/IFTTT-111111?style=for-the-badge&logo=ifttt&logoColor=c5ff4a&labelColor=060606" alt="IFTTT" />
 </p>
 
 ### Game Engines
 
 <p>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="40" />
+  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=c5ff4a&labelColor=060606" alt="Unity" />
 </p>
 
 ### No-Code & AI Development
